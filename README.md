@@ -29,27 +29,27 @@
 
 - **主页效果展示图**
 
-![image-20230704191720361](https://enndfp-1317534445.cos.ap-guangzhou.myqcloud.com/img/image-20230704191720361.png)
+![image-20230704191720361](https://img.enndfp.cn/image-20230704191720361.png)
 
 - **电影数据信息图**
 
-![image-20230704191818039](https://enndfp-1317534445.cos.ap-guangzhou.myqcloud.com/img/image-20230704191818039.png)
+![image-20230704191818039](https://img.enndfp.cn/image-20230704191818039.png)
 
 - **数据获取信息提示图**
 
-![image-20230704191912748](https://enndfp-1317534445.cos.ap-guangzhou.myqcloud.com/img/image-20230704191912748.png)
+![image-20230704191912748](https://img.enndfp.cn/image-20230704191912748.png)
 
 - **相关性矩阵热力图**
 
-![image-20230704191946721](https://enndfp-1317534445.cos.ap-guangzhou.myqcloud.com/img/image-20230704191946721.png)
+![image-20230704191946721](https://img.enndfp.cn/image-20230704191946721.png)
 
 - **《熔炉》电影词云图**
 
-![image-20230704192032765](https://enndfp-1317534445.cos.ap-guangzhou.myqcloud.com/img/image-20230704192032765.png)
+![image-20230704192032765](https://img.enndfp.cn/image-20230704192032765.png)
 
 - **评分分布饼状图**
 
-![image-20230704192056419](https://enndfp-1317534445.cos.ap-guangzhou.myqcloud.com/img/image-20230704192056419.png)
+![image-20230704192056419](https://img.enndfp.cn/image-20230704192056419.png)
 
 ## 使用说明
 
